@@ -10,7 +10,7 @@ Currently Simulation Ball
  
  https://github.com/BalasuryaMCA2023/simulation-ball/assets/139736173/fcb1b793-128f-4f85-8c55-9ed7c6b77404
 
- Licence Information 
+ # Licence Information 
  
 MIT License Termin is hardby granted free of charge to any person obtaining a copy of this strand associated documentation nies the "Software" to the Stware without 
 restriction inducing without Smit the right to use mpy, munify, merge padish ishita, sane and lips of the and to permit per to whom the Software mished to do so subject to the following content
